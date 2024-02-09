@@ -1,3 +1,7 @@
+# Weather Dashboard Application
+
+Tech stack - React.js, HTML, CSS, Javascript, Vite. 
+
 In this project, a Weather Dashboard frontend application was designed using React.js, integrating data fetched from Rapid API's Geo and Weather APIs.
 
 The project's focus on user-centric features extends beyond basic weather information, aiming to enhance user experience by offering practical insights. By incorporating functionalities such as clothing recommendations and vacation suitability assessments, the application addresses common concerns individuals face when planning their daily activities or trips.
