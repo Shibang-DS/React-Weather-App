@@ -1,5 +1,7 @@
 # Weather Dashboard Application
 
+Deployed Link - https://65c52e81c4c9ae0860ab3786--gleeful-alfajores-4cda4e.netlify.app/
+
 Tech stack - React.js, HTML, CSS, Javascript, Vite. 
 
 In this project, a Weather Dashboard frontend application was designed using React.js, integrating data fetched from Rapid API's Geo and Weather APIs.
